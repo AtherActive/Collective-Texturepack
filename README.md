@@ -5,3 +5,6 @@
 - CHIPS
 - CHIP ORE
 - CHIP BLOCK
+
+## Other names
+<C:\Execade> - Chipturepack
