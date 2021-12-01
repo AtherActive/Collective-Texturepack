@@ -1,2 +1,7 @@
 # Collective Texturepack
- A texturepakc for the Collective Minecraft server
+ A texturepack for the Collective Minecraft server.
+ 
+# Changes from vanilla
+- CHIPS
+- CHIP ORE
+- CHIP BLOCK
